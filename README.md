@@ -1,8 +1,10 @@
 ## Introduction to Trailblazer
 
 This code is a collection of functions, parameters, and a solver for the class of Stochastic Integro-Differential
-Equations (SIDEs) used in the forthcoming memory-modeling work of Fagan, McBride, and Korolov. The collection contains
+Equations (SIDEs) used in the memory-modeling work of Fagan, McBride, and Korolov (2023). The collection contains
 all the tools to generate the simulated movement tracks used in the article.
+
+The article: https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0700
 
 ### Components
 
